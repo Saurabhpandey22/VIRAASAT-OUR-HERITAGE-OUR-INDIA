@@ -1,0 +1,6 @@
+{
+  "name": "Viraasat: Our Heritage. Our India.",
+  "description": "Smart Indian Tourism & 3D Virtual Heritage Platform with AI Personalization, Time Travel (KaalChakra), and Interactive Itinerary Builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

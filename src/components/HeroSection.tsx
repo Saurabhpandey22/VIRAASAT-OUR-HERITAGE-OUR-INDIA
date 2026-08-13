@@ -39,7 +39,7 @@ export const HeroSection: React.FC = () => {
       title: "North Bharat • Divine Himalayas & Sacred Valleys",
       sites: ["Shri Ram Mandir Ayodhya", "Kedarnath Mahadev Temple"],
       placeId: "ram-mandir-ayodhya",
-      img: "https://images.unsplash.com/photo-1705861145120-d309be0d5f49?q=80&w=1200&auto=format&fit=crop",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR40jDIC9k1RxBJ_upxTBVmgE0WOdU0FHM2t84iXIGn0Q&s=10q=80&w=1200&auto=format&fit=crop",
       tagline: "Home of ancient Nagara temples, river ghats, and snow sanctuaries."
     },
     South: {
@@ -53,7 +53,7 @@ export const HeroSection: React.FC = () => {
       title: "East Bharat • Kalinga Sun Chariots & Brahmaputra Flora",
       sites: ["Konark Sun Temple", "Kaziranga Heritage"],
       placeId: "konark-sun-temple",
-      img: "https://images.unsplash.com/photo-1609137144813-7d99f4f39158?q=80&w=1200&auto=format&fit=crop",
+      img: "https://hindupost.in/wp-content/uploads/2026/04/IMG_1120-1536x1152-1-696x522.jpgq=80&w=1200&auto=format&fit=crop",
       tagline: "Carved stone sundials, Kalinga temple architecture, and verdant floodplains."
     },
     West: {

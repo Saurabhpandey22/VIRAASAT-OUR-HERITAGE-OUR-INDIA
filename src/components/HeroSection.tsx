@@ -53,7 +53,7 @@ export const HeroSection: React.FC = () => {
       title: "East Bharat • Kalinga Sun Chariots & Brahmaputra Flora",
       sites: ["Konark Sun Temple", "Kaziranga Heritage"],
       placeId: "konark-sun-temple",
-      img: "https://hindupost.in/wp-content/uploads/2026/04/IMG_1120-1536x1152-1-696x522.jpgq=80&w=1200&auto=format&fit=crop",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_iDX8LNGaC7s2ZPnCoosGqgSQKckkf0ru9-b9gxQY9Q&s=10q=80&w=1200&auto=format&fit=crop",
       tagline: "Carved stone sundials, Kalinga temple architecture, and verdant floodplains."
     },
     West: {

@@ -56,7 +56,7 @@ export const HERITAGE_PLACES: HeritagePlace[] = [
     description: "Conceived as a colossal 12-wheeled stone chariot drawn by seven galloping horses for Surya (the Sun God). The 24 stone wheels function as accurate sundials measuring time to the exact minute by shadows cast on their spokes.",
     coverImage: "https://images.unsplash.com/photo-1609137144813-7d99f4f39158?q=80&w=1200&auto=format&fit=crop",
     gallery: [
-      "https://images.unsplash.com/photo-1609137144813-7d99f4f39158?q=80&w=1200&auto=format&fit=crop",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhjFOStugeG2I6PfqWJxdOAMSjqJZzavu7pbuz6Eai8Q&s=10q=80&w=1200&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1620766182966-c6eb5ed2b788?q=80&w=1200&auto=format&fit=crop"
     ],
     historyPoints: [
@@ -181,9 +181,9 @@ export const HERITAGE_PLACES: HeritagePlace[] = [
     era: "3rd Century BCE",
     dynastyBuilder: "Emperor Ashoka the Great (Mauryan Dynasty)",
     description: "The Great Stupa at Sanchi is one of India's oldest stone monuments. Encasing sacred relics of Lord Buddha, its four grand Torana gateways are covered in delicate bas-relief sculptures depicting Jataka tales and Ashokan edicts.",
-    coverImage: "https://images.unsplash.com/photo-1600100397608-f010e423b971?q=80&w=1200&auto=format&fit=crop",
+    coverImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr5OqO9aBctmk7Dd1aqAgeCATYxqdiPuA-o1Wog-LQ2w&s=10q=80&w=1200&auto=format&fit=crop",
     gallery: [
-      "https://images.unsplash.com/photo-1600100397608-f010e423b971?q=80&w=1200&auto=format&fit=crop"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr5OqO9aBctmk7Dd1aqAgeCATYxqdiPuA-o1Wog-LQ2w&s=10q=80&w=1200&auto=format&fit=crop"
     ],
     historyPoints: [
       "Originally built as a simple brick hemisphere by Emperor Ashoka in 3rd Century BCE to honor Lord Buddha.",
@@ -306,10 +306,10 @@ export const HERITAGE_PLACES: HeritagePlace[] = [
     era: "1589 CE (Gold Plating by Maharaja Ranjit Singh 1830 CE)",
     dynastyBuilder: "Guru Arjan Dev Ji & Sikh Empire",
     description: "Surrounded by the sacred Amrit Sarovar lake, Sri Harmandir Sahib stands as an emblem of human equality and spiritual brotherhood. Overlaid with 750 kg of pure gold foil, its four entrances welcome people from all walks of life without distinction.",
-    coverImage: "https://images.unsplash.com/photo-1514222709107-a180c68d72b4?q=80&w=1200&auto=format&fit=crop",
+    coverImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxjxqldhcsJVDGrkMqI_qvLHg4y7F7_Z0UsTW_T8hkdQ&s=10q=80&w=1200&auto=format&fit=crop",
     gallery: [
-      "https://images.unsplash.com/photo-1514222709107-a180c68d72b4?q=80&w=1200&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1605649487212-47bdab064df7?q=80&w=1200&auto=format&fit=crop"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxjxqldhcsJVDGrkMqI_qvLHg4y7F7_Z0UsTW_T8hkdQ&s=10q=80&w=1200&auto=format&fit=crop",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxjxqldhcsJVDGrkMqI_qvLHg4y7F7_Z0UsTW_T8hkdQ&s=10q=80&w=1200&auto=format&fit=crop"
     ],
     historyPoints: [
       "Foundation stone laid in 1589 CE by Sufi Saint Mian Mir at the request of the 5th Sikh Guru, Guru Arjan Dev Ji.",
@@ -348,9 +348,9 @@ export const HERITAGE_PLACES: HeritagePlace[] = [
     era: "14th - 16th Century CE",
     dynastyBuilder: "Vijayanagara Empire (King Krishnadevaraya)",
     description: "Spread across 4,100 hectares of surreal boulder-strewn landscapes along the Tungabhadra River, Hampi was once the second-largest city in the medieval world. Its crowning jewel is the Vittala Temple Stone Chariot, carved with astonishing precision.",
-    coverImage: "https://images.unsplash.com/photo-1600100395162-4322383c31b0?q=80&w=1200&auto=format&fit=crop",
+    coverImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIpWZkxYPdrpYkdjLdGHaxFxlN_iCXQ4AiSSQPJxesAQ&s=10q=80&w=1200&auto=format&fit=crop",
     gallery: [
-      "https://images.unsplash.com/photo-1600100395162-4322383c31b0?q=80&w=1200&auto=format&fit=crop"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIpWZkxYPdrpYkdjLdGHaxFxlN_iCXQ4AiSSQPJxesAQ&s=10q=80&w=1200&auto=format&fit=crop"
     ],
     historyPoints: [
       "Hampi served as the glorious capital of the Vijayanagara Empire under King Krishnadevaraya.",
@@ -389,9 +389,9 @@ export const HERITAGE_PLACES: HeritagePlace[] = [
     era: "Over 3,000 Years Old (Continuous Living Heritage)",
     dynastyBuilder: "Kashi Rulers, Ahilyabai Holkar & Maratha Dynasties",
     description: "Marking the spiritual heart of India, Varanasi (Kashi) is a timeless center of philosophy, music, and devotion. Its 84 stone riverfront Ghats host the soul-stirring Ganga Aarti every evening at Dashashwamedh Ghat.",
-    coverImage: "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=1200&auto=format&fit=crop",
+    coverImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAuq4bcWY9Q4zhv0Mj4FlI2eflCroAWStBZ56ZU6R9xg&s=10q=80&w=1200&auto=format&fit=crop",
     gallery: [
-      "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=1200&auto=format&fit=crop"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAuq4bcWY9Q4zhv0Mj4FlI2eflCroAWStBZ56ZU6R9xg&s=10q=80&w=1200&auto=format&fit=crop"
     ],
     historyPoints: [
       "Continuously inhabited since at least 1200 BCE, visited by Gautama Buddha, Adi Shankaracharya, Kabir, and Tulsidas.",

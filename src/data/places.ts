@@ -54,10 +54,10 @@ export const HERITAGE_PLACES: HeritagePlace[] = [
     era: "1250 CE",
     dynastyBuilder: "King Narasimhadeva I (Eastern Ganga Dynasty)",
     description: "Conceived as a colossal 12-wheeled stone chariot drawn by seven galloping horses for Surya (the Sun God). The 24 stone wheels function as accurate sundials measuring time to the exact minute by shadows cast on their spokes.",
-    coverImage: "https://images.unsplash.com/photo-1609137144813-7d99f4f39158?q=80&w=1200&auto=format&fit=crop",
+    coverImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhxG5rRTcXPDD3ibEvCZT0EfJhTzTTUeaSvumfB_JRQg&s=10q=80&w=1200&auto=format&fit=crop",
     gallery: [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhjFOStugeG2I6PfqWJxdOAMSjqJZzavu7pbuz6Eai8Q&s=10q=80&w=1200&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1620766182966-c6eb5ed2b788?q=80&w=1200&auto=format&fit=crop"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhxG5rRTcXPDD3ibEvCZT0EfJhTzTTUeaSvumfB_JRQg&s=10q=80&w=1200&auto=format&fit=crop",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhxG5rRTcXPDD3ibEvCZT0EfJhTzTTUeaSvumfB_JRQg&s=10q=80&w=1200&auto=format&fit=crop"
     ],
     historyPoints: [
       "Built by King Narasimhadeva I to celebrate military victories and honor the Sun deity near the Bay of Bengal coast.",
